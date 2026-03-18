@@ -35,13 +35,19 @@ print("d:", d)
 ## Output
 
 a is False
+
 b is True
+
 c: 2
+
 d: 9
 
 ## Result
 
 a is False
+
 b is True
+
 c: 2
+
 d: 9
